@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://KimSanghyun20.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My first step</title>
+      <link>https://KimSanghyun20.github.io/blog/secondblog/</link>
+      <pubDate>Wed, 10 May 2023 16:25:15 +0900</pubDate>
+      
+      <guid>https://KimSanghyun20.github.io/blog/secondblog/</guid>
+      <description>이 웹페이지에 앞으로 진행할 프로젝트, 전공수업때 배운내용을 꾸준히 업로드 하여 제 포트폴리오를 완성할 예정입니다.
+이 블로그는 앞으로의 여정을 향한 첫걸음입니다.</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://KimSanghyun20.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>

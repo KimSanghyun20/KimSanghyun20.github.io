@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://KimSanghyun20.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My first step</title>
+      <link>https://KimSanghyun20.github.io/blog/secondblog/</link>
+      <pubDate>Wed, 10 May 2023 16:25:15 +0900</pubDate>
+      
+      <guid>https://KimSanghyun20.github.io/blog/secondblog/</guid>
+      <description>이 웹페이지에 앞으로 진행할 프로젝트, 전공수업때 배운내용을 꾸준히 업로드 하여 제 포트폴리오를 완성할 예정입니다.
+이 블로그는 앞으로의 여정을 향한 첫걸음입니다.</description>
+    </item>
+    
+    <item>
       <title>Making a new Website</title>
       <link>https://KimSanghyun20.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
